@@ -1,6 +1,4 @@
-# Tang Nano 20K toolchain on WSL2 (Windows)
-
-Open-source flow: `yosys` → `nextpnr-himbaechel` → `gowin_pack` → `openFPGALoader`.
+# Tang Nano 20K toolchain on WSL2 setup
 
 ## 1. Install the toolchain (inside WSL2/Ubuntu)
 
