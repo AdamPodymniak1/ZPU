@@ -1,0 +1,13 @@
+# Build outputs
+build/
+
+# oss-cad-suite install
+oss-cad-suite/
+
+# Simulation waveforms (if written outside build/)
+*.vcd
+
+# OS/editor cruft
+.DS_Store
+Thumbs.db
+*.swp
